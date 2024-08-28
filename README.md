@@ -1,3 +1,4 @@
+![Screenshot (2)](https://github.com/user-attachments/assets/94ee8532-80b1-4175-a6ec-e3db5218bafe)
  PASSWORD STRENGTH CHECKER
 
 
